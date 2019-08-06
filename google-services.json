@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "772953289424",
+    "firebase_url": "https://daka-89e89.firebaseio.com",
+    "project_id": "daka-89e89",
+    "storage_bucket": "daka-89e89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772953289424:android:a8d402bf533d6c4a",
+        "android_client_info": {
+          "package_name": "com.gumkin.Daka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772953289424-blsnfafl37i124imkf2oqlelkvckuoo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi7NpKRW_1bn6SD31N_19fpa4zAydoaso"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
