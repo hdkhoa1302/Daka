@@ -1,2 +1,2 @@
 # Daka
-App learn English vocabulary
+App learn English vocabulary with React Native
